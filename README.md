@@ -1,4 +1,5 @@
 # PMM-MySQL
 
+## PMM MySQL Dashboard 변경함
+![KakaoTalk_20220419_141853707](https://user-images.githubusercontent.com/37256341/163925299-5529ab23-ec8a-40a3-b603-321cf8d5f163.png)
 
-![모니터링](https://user-images.githubusercontent.com/37256341/163918291-7e68c645-5517-41c7-b16a-611ff5936b46.PNG)
